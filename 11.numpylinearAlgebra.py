@@ -1,4 +1,5 @@
 ###Linear algebra
+import nump as np
 a = np.ones((2,3))
 a
 
