@@ -1,0 +1,16 @@
+#For Pro --> need Nbextensions tag in home view
+#conda install -c conda-forge jupyter_contrib_nbextensions
+#conda install -c conda-forge jupyter_nbextensions_configurator
+#or
+#pip install jupyter_contrib_nbextensions
+#jupyter contrib nbextension install --user
+#jupyter nbextension enable varInspector/main
+#uncheck disable
+#Install extensions ---> Collapsible Headings,Coefolding,Hinterland(complete code),Autopep8(select မှတ်ပြီး ပို format ကျအောင်လုပ်ပေး)
+#https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions/collapsible_headings/readme.html
+
+#if ur machine don't know conda
+#open conda powershell and type ---> "where conda"
+#copy second path till Scripts and paste in enviroment var 
+#and before Scripts path also put into env var path
+
